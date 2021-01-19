@@ -1,4 +1,2 @@
 *.mysql linguist-detectable=true
 *.mysql linguist-language=MySQL
-*.py linguist-detectable=true
-*.py linguist-language=Python
